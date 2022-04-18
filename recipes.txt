@@ -6,6 +6,7 @@ Kismiss
 Chicken
 Rice
 Tomata
+idly
 
 
 Thank you
